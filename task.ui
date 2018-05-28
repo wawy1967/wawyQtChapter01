@@ -6,8 +6,8 @@
    <rect>
     <x>0</x>
     <y>0</y>
-    <width>442</width>
-    <height>156</height>
+    <width>621</width>
+    <height>376</height>
    </rect>
   </property>
   <property name="windowTitle">
@@ -16,13 +16,13 @@
   <widget class="QWidget" name="horizontalLayoutWidget">
    <property name="geometry">
     <rect>
-     <x>20</x>
-     <y>20</y>
-     <width>411</width>
-     <height>101</height>
+     <x>50</x>
+     <y>100</y>
+     <width>461</width>
+     <height>171</height>
     </rect>
    </property>
-   <layout class="QHBoxLayout" name="horizontalLayout">
+   <layout class="QHBoxLayout" name="toolbarLayout">
     <item>
      <widget class="QPushButton" name="removeButton">
       <property name="text">
@@ -53,7 +53,7 @@
     <item>
      <widget class="QCheckBox" name="checkBox">
       <property name="text">
-       <string>But Milk</string>
+       <string>Buy Milk</string>
       </property>
      </widget>
     </item>
